@@ -222,6 +222,7 @@ export default class MapComponent extends Component {
                     <h1 style={{ fontSize: '40px' }} className="animated bounceInUp"><b><img src={Img} alt="cricket" style={{ margin: '-20px 10px 0 10px', overflow: 'auto' }} /></b>World Cup Map View</h1>
                     <hr />
                     <p className="lead animated fadeInDown">Checkout the different countries which hosted the Cricket world cups till date and get to know some interesting facts too!</p>
+                    <p className="animated fadeIn">(Click on the markers to view the details)</p>
 
                 </div>
                 <div style={{ padding: '0 30px 0 30px' }} className="mx-auto">

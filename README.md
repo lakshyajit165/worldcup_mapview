@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# worldcup_mapview
+A react app showing cricket world cup history
+>>>>>>> 79ef3917a3f9865d6de2a96188a0a924039b824c
